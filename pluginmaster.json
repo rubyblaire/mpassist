@@ -12,8 +12,8 @@
     "Tags": ["makeplace", "housing", "shopping", "assistant"],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/rubyblaire/mpassist/blob/main/mpassist.zip",
-    "DownloadLinkUpdate": "https://github.com/rubyblaire/mpassist/blob/main/mpassist.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/rubyblaire/mpassist/main/mpassist.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/rubyblaire/mpassist/main/mpassist.zip"
     "LastUpdate": "1743027720"
   }
 ]
