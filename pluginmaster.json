@@ -1,0 +1,19 @@
+[
+  {
+    "Author": "Ruby Blaire",
+    "Name": "MakePlace Assistant",
+    "InternalName": "MakePlaceAssistant",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "A Dalamud plugin for FFXIV that streamlines MakePlace shopping lists with guided item tracking, purchase progress, and a cleaner, more organized marketboard workflow.",
+    "Punchline": "Streamlined MakePlace shopping without the guesswork.",
+    "RepoUrl": "https://github.com/rubyblaire/mpassist",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Tags": ["makeplace", "housing", "shopping", "assistant"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/rubyblaire/mpassist/archive/refs/tags/mpassist.zip",
+    "DownloadLinkUpdate": "https://github.com/rubyblaire/mpassist/archive/refs/tags/mpassist.zip",
+    "LastUpdate": "1743027720"
+  }
+]
