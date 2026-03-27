@@ -104,6 +104,7 @@ If you run into a problem, please include:
 - what behavior you expected
 - what happened instead
 - screenshots or logs, if available
+  
 Please send a discord DM to rubyblaire
 ---
 
