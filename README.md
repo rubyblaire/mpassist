@@ -42,15 +42,9 @@ It does **not** automatically purchase items from the marketboard. It is intende
 
 ## Installation
 
-### Dev Plugin
-1. Build the project in **Release** mode.
-2. Place the plugin output in your Dalamud dev plugin folder.
-3. Make sure the `.json` manifest filename matches the plugin's internal name.
-4. Enable the plugin in-game through Dalamud.
-
 ### Public / Custom Repo
-Installation steps may vary depending on how the plugin is distributed.  
-If this plugin is released through a custom repo, add that repository URL in Dalamud settings and install it from the plugin installer.
+Install https://raw.githubusercontent.com/rubyblaire/mpassist/main/pluginmaster.json in your experimental.
+Search for MarketPlace Assistant, install.
 
 ---
 
