@@ -44,6 +44,7 @@ It does **not** automatically purchase items from the marketboard. It is intende
 
 ### Public / Custom Repo
 Install https://raw.githubusercontent.com/rubyblaire/mpassist/main/pluginmaster.json in your experimental.
+
 Search for MarketPlace Assistant, install.
 
 ---
