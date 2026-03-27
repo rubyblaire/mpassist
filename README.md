@@ -15,7 +15,7 @@ Built as a **manual shopping companion** rather than an autobuyer, it helps you 
 - Mark items complete as you shop
 - Refresh progress during long marketboard sessions
 - Clean UI designed for practical, high-volume furnishing runs
-
+- A visual: https://i.imgur.com/GMjvsVV.png
 ---
 
 ## What It Does
