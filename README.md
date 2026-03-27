@@ -98,13 +98,15 @@ MakePlace Assistant was created to make that process smoother, more readable, an
 ## Feedback
 
 Bug reports, suggestions, and quality-of-life ideas are always welcome.
+Please send a discord DM to rubyblaire.
+
 
 If you run into a problem, please include:
 - what list you loaded
 - what behavior you expected
 - what happened instead
 - screenshots or logs, if available
-Please send a discord DM to rubyblaire
+
 ---
 
 ## Author
