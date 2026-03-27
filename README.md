@@ -111,7 +111,7 @@ If you run into a problem, please include:
 
 ## Author
 
-**Ruby Blaire**
+**[Ruby Blaire](https://linktr.ee/rubyblaire)**
 
 ---
 
