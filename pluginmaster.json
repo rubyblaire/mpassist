@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.1.0.0",
     "Description": "A MakePlace shopping-list companion for market board runs, inventory tracking, and Patch 7.5 consolidated dye handling.",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
+    "DalamudApiLevel": 14,
     "Punchline": "A MakePlace shopping-list companion for market board runs.",
     "RepoUrl": "https://github.com/rubyblaire/mpassist",
     "DownloadLinkInstall": "https://github.com/rubyblaire/mpassist/releases/download/v1.1.0/MakePlaceAssistant.zip",
