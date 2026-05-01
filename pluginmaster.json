@@ -11,8 +11,8 @@
     "TestingDalamudApiLevel": 15,
     "Punchline": "A MakePlace shopping-list companion for market board runs.",
     "RepoUrl": "https://github.com/rubyblaire/mpassist",
-    "DownloadLinkInstall": "https://github.com/rubyblaire/mpassist/releases/download/v1.0.0/MakePlaceAssistant.zip",
-    "DownloadLinkUpdate": "https://github.com/rubyblaire/mpassist/releases/download/v1.0.0/MakePlaceAssistant.zip",
+    "DownloadLinkInstall": "https://github.com/rubyblaire/mpassist/releases/download/v1.1.0/MakePlaceAssistant.zip",
+    "DownloadLinkUpdate": "https://github.com/rubyblaire/mpassist/releases/download/v1.1.0/MakePlaceAssistant.zip",
     "DownloadLinkTesting": "https://github.com/rubyblaire/mpassist/releases/download/v1.1.0/MakePlaceAssistant.zip",
     "Changelog": "Stable API 14 release.",
     "TestingChangelog": "Testing build updated for Dalamud API 15 and FFXIV Patch 7.5 dye consolidation."
