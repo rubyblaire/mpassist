@@ -1,0 +1,23 @@
+{
+  "Author": "Ruby Blaire",
+  "Name": "MakePlace Assistant",
+  "InternalName": "MakePlaceAssistant",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "Helps you work through MakePlace shopping lists, track owned inventory, loaded retainers, estate storage, manual confirmations, rank market-board listings, and handle Patch 7.5 consolidated dye items.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/rubyblaire/mpassist",
+  "Tags": [
+    "MakePlace",
+    "Housing",
+    "Shopping",
+    "Market Board",
+    "Dyes"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A MakePlace shopping-list companion for market board runs.",
+  "AcceptsFeedback": true
+}
