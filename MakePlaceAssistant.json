@@ -18,6 +18,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/rubyblaire/mpassist/main/images/icon.png",
   "Punchline": "A MakePlace shopping-list companion for market board runs.",
   "AcceptsFeedback": true
 }

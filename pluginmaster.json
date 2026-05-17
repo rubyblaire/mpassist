@@ -14,6 +14,15 @@
     "DownloadLinkInstall": "https://github.com/rubyblaire/mpassist/releases/download/v1.1.0/MakePlaceAssistant.zip",
     "DownloadLinkUpdate": "https://github.com/rubyblaire/mpassist/releases/download/v1.1.0/MakePlaceAssistant.zip",
     "DownloadLinkTesting": "https://github.com/rubyblaire/mpassist/releases/download/v1.1.0/MakePlaceAssistant.zip",
+    "IconUrl": "https://raw.githubusercontent.com/rubyblaire/mpassist/main/images/icon.png",
+    "Tags": [
+      "MakePlace",
+      "Housing",
+      "Shopping",
+      "Inventory",
+      "Market Board",
+      "Dyes"
+    ],
     "Changelog": "Updated for Dalamud API 15 and FFXIV Patch 7.5 dye consolidation.",
     "TestingChangelog": "Testing build updated for Dalamud API 15 and FFXIV Patch 7.5 dye consolidation."
   }
